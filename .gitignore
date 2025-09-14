@@ -1,0 +1,15 @@
+echo "# Python cache" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "*.pyo" >> .gitignore
+echo "" >> .gitignore
+echo "# Virtual environment" >> .gitignore
+echo "venv/" >> .gitignore
+echo "env/" >> .gitignore
+echo "" >> .gitignore
+echo "# IDE files" >> .gitignore
+echo ".vscode/" >> .gitignore
+echo "" >> .gitignore
+echo "# OS files" >> .gitignore
+echo ".DS_Store" >> .gitignore
+echo "Thumbs.db" >> .gitignore
