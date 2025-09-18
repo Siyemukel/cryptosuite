@@ -10,9 +10,6 @@ An interactive web-based implementation of the classic Caesar Cipher encryption 
 - **Responsive design** for all devices
 - **Interactive UI** with real-time processing
 
-## 🚀 Live Demo
-
-[Try it live here!](https://yourusername.github.io/caesar-cipher-tool)
 
 ## 🛠️ Technologies Used
 
@@ -21,9 +18,6 @@ An interactive web-based implementation of the classic Caesar Cipher encryption 
 - **HTML5 & CSS3** - Modern UI design
 - **ASCII manipulation** and modular arithmetic
 
-## 📱 Screenshots
-
-![Interface Screenshot](screenshots/interface.png)
 
 ## 🔧 How It Works
 
